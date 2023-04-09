@@ -1,6 +1,6 @@
 ## Segment Anything with CLIP Web UI
 
-This is a gradio web ui for sam with clip. You can extract the specific object from the sam model with some prompts. Also, it will show the best prompt with score.
+This is a gradio web ui for sam with clip. You can extract the specific object from the sam model with some text prompts. Also, it will show the best text prompt with score.
 - [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything)
 - [Contrastive Language-Image Pre-Training (CLIP)](https://github.com/openai/CLIP)
 
